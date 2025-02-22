@@ -36,7 +36,6 @@ Ex-Site Reliability Engineer at Motorola Solutions, now pursuing MSc in Cybersec
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiridharBenkipur&show_icons=true&theme=dark" height="165px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiridharBenkipur&theme=dark" height="165px" />
 </p>
 
